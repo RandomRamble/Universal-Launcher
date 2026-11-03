@@ -1,2 +1,3 @@
 # Universal-Launcher
-A launcher that allows you to play any game without admin.
+Offline minecraft launcher
+Complete remake from the orignal Universal Launcher by pichie096
